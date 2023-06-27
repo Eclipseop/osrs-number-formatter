@@ -1,6 +1,6 @@
 {
   "name": "osrs-number-formatter",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Formats numbers into a style similar to OSRS",
   "main": "dist/index.js",
   "repository": {
