@@ -1,9 +1,9 @@
 {
   "name": "osrs-number-formatter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Formats numbers into a style similar to OSRS",
   "main": "dist/index.js",
-  "types": "lib/index.d.ts",
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Eclipseop/osrs-number-formatter.git"
